@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-jawalkar&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-jawalkar" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Web Development**
+- 🌱 I’m currently learning **Frontend Web Development**
 
 - 💬 Ask me about **Html, CSS, Javascript, Bootstrap, Java, MySQL**
 
