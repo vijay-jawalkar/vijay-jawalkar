@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-jawalkar&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-jawalkar" /> </p>
 
-- 🌱 I’m currently learning **Frontend Web Development**
+- 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Html, CSS, Javascript, Bootstrap, Java, MySQL**
+- 💬 Ask me about **Html, CSS, Javascript, Bootstrap, JQuery, MySQL**
 
 - 📫 How to reach me **vijay.jawalkar.786@gmail.com**
 
