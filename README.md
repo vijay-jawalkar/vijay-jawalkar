@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vijay Jawalkar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <img src = "https://camo.githubusercontent.com/f2caaa36dca1a4a7ecd1332d7f3a69c37238caaaedc530e2612cc28b0ed3cf5e/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966" alt = "gif" align = "right" width = 400>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-jawalkar&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-jawalkar" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Advanced ReactJs**
 
-- 💬 Ask me about **Html, CSS, Javascript, Bootstrap, JQuery, MySQL**
+- 💬 Ask me about **ReactJs, Redux, Firebase, Javascript, Tailwind CSS, Bootstrap, JQuery, MySQL**
 
 - 📫 How to reach me **vijay.jawalkar.786@gmail.com**
 
