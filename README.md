@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-jawalkar&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-jawalkar" /> </p>
 
-- 🌱 I’m currently learning **Advanced ReactJs**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **ReactJs, Redux, Firebase, Javascript, Tailwind CSS, Bootstrap, JQuery, MySQL**
 
