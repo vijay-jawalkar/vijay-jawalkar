@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **ReactJs, Redux, Firebase, Javascript, Tailwind CSS, Bootstrap, JQuery, MySQL**
+- 💬 Ask me about **ReactJs, Redux, Firebase, Javascript, Tailwind CSS, NodeJs, ExpressJs**
 
 - 📫 How to reach me **vijay.jawalkar.786@gmail.com**
 
